@@ -77,7 +77,7 @@ themeBtn.addEventListener("click", function () {
         root.style.setProperty("--secondary-color", "#3B3B3B");
         root.style.setProperty("--text-color", "#EAEAEA");
         root.style.setProperty("--task-color", "#3B3B3B");
-        root.style.setProperty("--footer-color", "#556B2F");
+        root.style.setProperty("--footer-color", "black");
         root.style.setProperty(
             "--theme-btn",
             `url('assets/Light-theme-btn.svg')`
